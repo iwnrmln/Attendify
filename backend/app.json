@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "expo-sharing"
+  ],
+  "expo": {
+    "scheme": "exp"
+  }
+}

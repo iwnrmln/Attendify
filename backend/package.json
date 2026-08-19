@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^1.16.0",
+    "canvas": "^3.2.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "expo-image-manipulator": "^55.0.13",
+    "expo-print": "~55.0.13",
+    "expo-sharing": "~55.0.18",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "face-api.js": "^0.22.2",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^2.1.1",
+    "sharp": "^0.34.5"
+  }
+}
